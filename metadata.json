@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Ceria PAUD",
+  "description": "Aplikasi kuis edukatif anak PAUD offline-first dengan penugasan paket kuis unik untuk setiap murid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
